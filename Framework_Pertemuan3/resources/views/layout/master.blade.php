@@ -27,7 +27,6 @@
     <nav class="navbar navbar-expand-lg navbar-dark shadow-sm" style="background-color: #640101">
             <div class="container">
               <a class="navbar-brand" href="/welcome">
-              <img src="/image/unsika.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
               Sistem Informasi Akademik UNSIKA</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -56,7 +55,7 @@
 
     <!--Footer-->
     <footer class="text-center text-dark mt-5">
-        <p>Created by <a href="https://www.instagram.com/fzhraa21_/" class="fw-bold text-dark">Fathimatuz Zahra</a></p>
+        <p>Nabila Aulia Rahmah</p>
     </footer>
     <!--Footer-->
 

@@ -17,7 +17,7 @@ class CreateMahasiswasTable extends Migration
             $table->id();
             $table->string('npm');
             $table->string('nama');
-            $table->enum('jenis_kelamin', ['Laki Laki', 'Perempuan']);
+            $table->enum('jenis_kelamin', ['Laki-Laki', 'Perempuan']);
             $table->text('alamat');
             $table->string('tempat_lahir');
             $table->date('tanggal_lahir');
